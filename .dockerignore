@@ -1,0 +1,9 @@
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/.venv
+**/venv
+**/aura.db
+**/.env
+**/dist
+**/.git
